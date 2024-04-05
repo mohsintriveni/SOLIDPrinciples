@@ -1,0 +1,14 @@
+C:\Users\TGCUser105\Desktop\SOLID\SRPandOCP\SRPandOCP\bin\Debug\net7.0\SRPandOCP.exe
+C:\Users\TGCUser105\Desktop\SOLID\SRPandOCP\SRPandOCP\bin\Debug\net7.0\SRPandOCP.deps.json
+C:\Users\TGCUser105\Desktop\SOLID\SRPandOCP\SRPandOCP\bin\Debug\net7.0\SRPandOCP.runtimeconfig.json
+C:\Users\TGCUser105\Desktop\SOLID\SRPandOCP\SRPandOCP\bin\Debug\net7.0\SRPandOCP.dll
+C:\Users\TGCUser105\Desktop\SOLID\SRPandOCP\SRPandOCP\bin\Debug\net7.0\SRPandOCP.pdb
+C:\Users\TGCUser105\Desktop\SOLID\SRPandOCP\SRPandOCP\obj\Debug\net7.0\SRPandOCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGCUser105\Desktop\SOLID\SRPandOCP\SRPandOCP\obj\Debug\net7.0\SRPandOCP.AssemblyInfoInputs.cache
+C:\Users\TGCUser105\Desktop\SOLID\SRPandOCP\SRPandOCP\obj\Debug\net7.0\SRPandOCP.AssemblyInfo.cs
+C:\Users\TGCUser105\Desktop\SOLID\SRPandOCP\SRPandOCP\obj\Debug\net7.0\SRPandOCP.csproj.CoreCompileInputs.cache
+C:\Users\TGCUser105\Desktop\SOLID\SRPandOCP\SRPandOCP\obj\Debug\net7.0\SRPandOCP.dll
+C:\Users\TGCUser105\Desktop\SOLID\SRPandOCP\SRPandOCP\obj\Debug\net7.0\refint\SRPandOCP.dll
+C:\Users\TGCUser105\Desktop\SOLID\SRPandOCP\SRPandOCP\obj\Debug\net7.0\SRPandOCP.pdb
+C:\Users\TGCUser105\Desktop\SOLID\SRPandOCP\SRPandOCP\obj\Debug\net7.0\SRPandOCP.genruntimeconfig.cache
+C:\Users\TGCUser105\Desktop\SOLID\SRPandOCP\SRPandOCP\obj\Debug\net7.0\ref\SRPandOCP.dll
